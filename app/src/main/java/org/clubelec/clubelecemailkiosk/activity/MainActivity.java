@@ -38,8 +38,11 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
+import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -264,7 +267,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(Intent.ACTION_CREATE_DOCUMENT);
         intent.addCategory(Intent.CATEGORY_OPENABLE);
         intent.setType("text/plain");
-        intent.putExtra(Intent.EXTRA_TITLE, "emails.txt");
+        Date now = new Date();
+        String textFile = "emails_" + new SimpleDateFormat("dd-MM-yyyy-HH-mm-ss", Locale.FRENCH).format(now) + ".txt";
+        intent.putExtra(Intent.EXTRA_TITLE, textFile);
         startActivityForResult(intent, REQUEST_CODE_EXPORT_EMAILS);
     }
 
