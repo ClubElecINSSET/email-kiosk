@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">email kiosk</string>
+    <string name="activity_main_headline">Subscribe to the club elec mailing list to keep up to date with all our news, events, services and much more.</string>
+    <string name="activity_main_checkbox">By validating your registration, you agree to allow club elec to store and use your email address for a period of one year for the purpose of sending you communications from club elec and its partners.\nYou may unsubscribe from this mailing list at any time.</string>
+    <string name="activity_main_button">Confirm registration</string>
+    <string name="activity_main_edittext_hint">name@domain.tld</string>
+    <string name="first_launch_password">Choose a security code</string>
+    <string name="first_launch_password_desc">The first time you launch the application, you are prompted for a security code to lock access to the data recorded by the application. \nA menu allowing you to access and export recorded data is available by clicking 10 times in a row on the club elec logo.</string>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="checkbox_unchecked">You must tick the checkbox to agree to the conservation of your email address by the club elec</string>
+    <string name="is_email_correct">Is this email address correct?\n</string>
+    <string name="confirmation_dialog">Confirmation</string>
+    <string name="email_saved">Email address successfully saved</string>
+    <string name="error">Error</string>
+    <string name="enter_password">Enter your security code</string>
+    <string name="enter_password_incorrect_format">The security code must contain exactly 6 digits</string>
+    <string name="enter_password_incorrect">Incorrect security code</string>
+    <string name="show_emails">Show emails</string>
+    <string name="clear_database">Clear database</string>
+    <string name="export_emails">Export emails to a file</string>
+    <string name="select_action">Select an action</string>
+    <string name="saved_emails">Saved emails</string>
+    <string name="database_cleared">Database cleared</string>
+    <string name="no_emails_found">No emails found to export</string>
+    <string name="emails_exported">Emails exported successfully</string>
+    <string name="export_failed">Export failed</string>
+    <string name="activity_main_sub">Don\'t worry, we\'re friendly! 😄</string>
+</resources>

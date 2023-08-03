@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">email kiosk</string>
+    <string name="activity_main_headline">Inscrivez-vous à la liste de diffusion du club elec pour être au courant de toutes nos actualités, nos événements, nos services, et bien plus encore.</string>
+    <string name="activity_main_checkbox">En validant votre inscription, vous acceptez que le club elec conserve et utilise votre adresse de courriel afin de vous envoyer des communications de la part du club elec et de ses partenaires.\nVous pouvez à tout moment vous désinscrire de cette liste de diffusion.</string>
+    <string name="activity_main_button">Valider l’inscription</string>
+    <string name="activity_main_edittext_hint">nom@domaine.dpn</string>
+    <string name="first_launch_password">Choisir un code de sécurité</string>
+    <string name="first_launch_password_desc">Lors du premier lancement de l\'application, un code de sécurité vous est demandé pour verrouiller l\'accès aux données enregistrées par l\'application.\nUn menu permettant d\'accéder et d\'exporter les données enregistrées est disponible en cliquant 10 fois de suite sur le logo du club elec.</string>
+    <string name="invalid_email_format">Format d’adresse de courriel invalide</string>
+    <string name="checkbox_unchecked">Vous devez cocher la case d’acceptation de la conservation de votre adresse de courriel par le club elec</string>
+    <string name="is_email_correct">Cette adresse de courriel est-elle correcte ?\n</string>
+    <string name="confirmation_dialog">Vérification</string>
+    <string name="email_saved">Adresse de courriel sauvegardée avec succès</string>
+    <string name="error">Erreur</string>
+    <string name="enter_password">Saisissez votre code de sécurité</string>
+    <string name="enter_password_incorrect_format">Le code de sécurité doit contenir exactement 6 chiffres</string>
+    <string name="enter_password_incorrect">Code de sécurité invalide</string>
+    <string name="show_emails">Voir les adresses de courriel</string>
+    <string name="clear_database">Vider la base de données</string>
+    <string name="export_emails">Exporter les adresses de courriel dans un fichier</string>
+    <string name="select_action">Sélectionnez une option</string>
+    <string name="saved_emails">Adresses de courriel sauvegardées</string>
+    <string name="database_cleared">Base de données vidée avec succès</string>
+    <string name="no_emails_found">Aucune adresse de courriel trouvée pour l’export</string>
+    <string name="emails_exported">Adresses de courriel exportées avec succès</string>
+    <string name="export_failed">L’export a échoué</string>
+    <string name="activity_main_sub">Ne vous inquiétez pas, nous sommes sympas ! 😄</string>
+</resources>
