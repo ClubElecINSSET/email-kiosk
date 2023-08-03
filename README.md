@@ -7,8 +7,7 @@ If you want to work with us, **fork us on [collabore forge](https://forge.collab
 Si vous souhaitez travailler avec nous, **forkez-nous sur [collabore forge](https://forge.collabore.fr/)** (l’inscription n’est pas nécessaire, vous pouvez vous connecter avec votre compte GitHub).
 * * *
 
-<p align="center"><img src="/app/src/main/res/mipmap-xhdpi/ic_launcher.png"></p>
-<h2 align="center">club elec email kiosk</h2>
+# club elec email kiosk
 
 Android kiosk application to collect email addresses for the club elec mailing list.
 Developed for INSSET's HP Pro Slate 8 tablets running Android 5.
